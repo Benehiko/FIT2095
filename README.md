@@ -11,6 +11,7 @@ I use IntelliJ as it provides support for Node.js and has a really nice interfac
 - [IntelliJ](https://www.jetbrains.com/idea/)
 - [Student License](https://www.jetbrains.com/student/)
 - [Github Student Pack](https://education.github.com/pack)
+- [Running Node.js in IntelliJ](https://www.jetbrains.com/help/idea/running-and-debugging-node-js.html)
 
 ## Rules
 If you want to contribute to this repository, please fork this repository and create a pull request with the updates you have made. A revision will be done of it to ensure it is correct.
