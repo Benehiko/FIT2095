@@ -1,3 +1,6 @@
 [submodule "FIT2095-Test"]
 	path = FIT2095-Test
 	url = https://github.com/Benehiko/FIT2095-Test
+[submodule "Lab1"]
+	path = Lab1
+	url = https://github.com/Benehiko/FIT2095-Lab1.git
