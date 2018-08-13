@@ -28,7 +28,7 @@ If you want to contribute to this repository, please fork this repository and cr
 
 ## Covered
 - [X] Week 1
-- [ ] Week 2
+- [X] Week 2
 - [ ] Week 3
 - [ ] Week 4
 - [ ] Week 5
