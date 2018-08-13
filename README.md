@@ -17,6 +17,8 @@ I use IntelliJ as it provides support for Node.js and has a really nice interfac
 - [Student License](https://www.jetbrains.com/student/)
 - [Github Student Pack](https://education.github.com/pack)
 - [Running Node.js in IntelliJ](https://www.jetbrains.com/help/idea/running-and-debugging-node-js.html)
+- [Nodejs Fix on yarn and npm error](https://www.jetbrains.com/help/idea/installing-and-removing-external-software-using-node-package-manager.html)
+- [More resources on installing nodejs](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-18-04)
 
 ## Rules
 If you want to contribute to this repository, please fork this repository and create a pull request with the updates you have made. A revision will be done of it to ensure it is correct.
