@@ -29,10 +29,10 @@ If you want to contribute to this repository, please fork this repository and cr
 ## Covered
 - [X] Week 1
 - [X] Week 2
-- [ ] Week 3
-- [ ] Week 4
-- [ ] Week 5
-- [ ] Week 6
+- [X] Week 3
+- [X] Week 4
+- [X] Week 5
+- [X] Week 6
 - [ ] Week 7
 - [ ] Week 8
 - [ ] Week 9
