@@ -16,3 +16,6 @@
 [submodule "Lab5"]
 	path = Lab5
 	url = git@github.com:Benehiko/FIT2095-Lab5.git
+[submodule "Lab6"]
+	path = Lab6
+	url = git@github.com:Benehiko/FIT2095-Lab6.git
