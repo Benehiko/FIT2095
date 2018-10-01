@@ -35,9 +35,9 @@ If you want to contribute to this repository, please fork this repository and cr
 - [X] Week 4
 - [X] Week 5
 - [X] Week 6
-- [ ] Week 7
-- [ ] Week 8
-- [ ] Week 9
+- [X] Week 7
+- [X] Week 8
+- [X] Week 9
 - [ ] Week 10
 - [ ] Week 11
 - [ ] Week 12
