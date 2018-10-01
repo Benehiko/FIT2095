@@ -1,6 +1,8 @@
 # FIT2095 E-business Software Technologies
 Monash FIT2095 Coding examples and resources
 
+## PLEASE NOTE THAT LABS USED TO BE MARKED AS eg. Lab 8 for Week 9. On Moodle it will say Lab 9 Week 9. Here it won't be updated.
+
 ## Information
 This repository will likely be more Wiki based, but let's see if we can't get some coding examples covered.
 
