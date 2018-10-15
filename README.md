@@ -1,6 +1,13 @@
 # FIT2095 E-business Software Technologies
 Monash FIT2095 Coding examples and resources
 
+## Update For Exams
+
+Please find all workshop quizzes and Pre-reading quizzes on the Wiki pages:
+
+https://github.com/Benehiko/FIT2095/wiki
+
+
 ## PLEASE NOTE THAT LABS USED TO BE MARKED AS eg. Lab 8 for Week 9. On Moodle it will say Lab 9 Week 9. Here it won't be updated.
 
 ## Information
@@ -38,7 +45,7 @@ If you want to contribute to this repository, please fork this repository and cr
 - [X] Week 7
 - [X] Week 8
 - [X] Week 9
-- [ ] Week 10
+- [X] Week 10
 - [ ] Week 11
 - [ ] Week 12
 - [ ] Revision
