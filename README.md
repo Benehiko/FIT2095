@@ -1,6 +1,10 @@
 # FIT2095 E-business Software Technologies
 Monash FIT2095 Coding examples and resources
 
+## Ultimate Summary of the Unit
+
+[Ultimate Guide FIT2095 2018](https://drive.google.com/a/monash.edu/file/d/1kJSxKfsNVRG9Dx-25gVL7DTyE4sru1uB/view?usp=sharing)
+
 ## Update For Exams
 
 Please find all workshop quizzes and Pre-reading quizzes on the Wiki pages:
