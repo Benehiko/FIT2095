@@ -50,6 +50,6 @@ If you want to contribute to this repository, please fork this repository and cr
 - [X] Week 8
 - [X] Week 9
 - [X] Week 10
-- [ ] Week 11
-- [ ] Week 12
-- [ ] Revision
+- [X] Week 11
+- [X] Week 12
+- [X] Revision
