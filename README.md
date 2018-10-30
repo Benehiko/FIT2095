@@ -3,7 +3,7 @@ Monash FIT2095 Coding examples and resources
 
 ## Ultimate Summary of the Unit
 
-[Ultimate Guide FIT2095 2018](https://docs.google.com/document/d/e/2PACX-1vRibfv5XXOzYmQ0caYaBLEXytpHygB_XWHu6LypMmF526hXpt0xARiC9PMQDSggWcHQlZvHBCX70OSc/pub)
+[Ultimate Guide FIT2095 2018](https://github.com/Benehiko/FIT2095/wiki/FIT2095-Ultimate-Summary-2018)
 
 ## Update For Exams
 
